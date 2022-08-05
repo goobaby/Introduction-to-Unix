@@ -1,0 +1,15 @@
+3
+amit.txt
+clogs.txt
+download
+durango
+lab02emptyfile
+lab04
+lab04.tar.gz
+lab05
+lab06
+prius
+public_html
+Quiz
+stumpjumper
+vehicles
